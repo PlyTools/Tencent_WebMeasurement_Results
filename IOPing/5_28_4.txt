@@ -1,0 +1,14 @@
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=1 time=1.21 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=2 time=1.37 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=3 time=1.33 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=4 time=1.37 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=5 time=1.54 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=6 time=1.65 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=7 time=1.51 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=8 time=1.51 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=9 time=1.43 ms
+4 KiB from . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652): request=10 time=1.40 ms
+
+--- . (ext3 /dev/disk/by-uuid/23922b2b-365b-4a75-999c-61c297921652) ioping statistics ---
+10 requests completed in 9.02 s, 698 iops, 2.73 MiB/s
+min/avg/max/mdev = 1.21 ms / 1.43 ms / 1.65 ms / 117 us

@@ -1,0 +1,20 @@
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9371) P: 0 I:1000 C:  10000 Min:      7 Act:   31 Avg:   17 Max:     666
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9373) P: 0 I:1000 C:  10000 Min:      9 Act:   13 Avg:   17 Max:     897
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9375) P: 0 I:1000 C:   9989 Min:      9 Act:   20 Avg:   19 Max:    3808
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9421) P: 0 I:1000 C:   9987 Min:      8 Act:   15 Avg:   18 Max:    3741
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9445) P: 0 I:1000 C:  10000 Min:      7 Act:   12 Avg:   17 Max:     656
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9447) P: 0 I:1000 C:  10000 Min:      8 Act:   13 Avg:   17 Max:     424
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9458) P: 0 I:1000 C:   9995 Min:      7 Act:   12 Avg:   17 Max:    2880
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9517) P: 0 I:1000 C:  10000 Min:      8 Act:   16 Avg:   16 Max:     744
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9519) P: 0 I:1000 C:  10000 Min:      8 Act:   15 Avg:   16 Max:     273
+# /dev/cpu_dma_latency set to 0us
+T: 0 ( 9521) P: 0 I:1000 C:   9997 Min:      8 Act:   15 Avg:   17 Max:    3862
